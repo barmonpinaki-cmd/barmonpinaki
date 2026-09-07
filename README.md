@@ -20,6 +20,17 @@ Gender Equality in Education, Educational Leadership and Research.
  - Educational Research
  - Academic Ledarship
  - Technology and Higher Education
+ - ## 🛠️ Skills & Areas
+- Educational Research
+- Research Methodology
+- Academic Writing
+- Teacher Education
+- Educational Leadership
+- Gender & Education
+- Inclusive Education
+- Higher Education
+- Educational Technology
+- AI in Education
 ## Projects
 - Academic & Research Portfolio
 - Personal Portfolio Website
