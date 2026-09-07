@@ -15,11 +15,11 @@ Gender Equality in Education, Educational Leadership and Research.
 - Educational Psychology
 - Higher Education
   ## Current Exploring
-  AI in in Education
-  Digital Learning
-  Educational Research
-  Academic Ledarship
-  Technology and Higher Education
+ - AI in in Education
+ - Digital Learning
+ - Educational Research
+ - Academic Ledarship
+ - Technology and Higher Education
 ## Projects
 - Academic & Research Portfolio
 - Personal Portfolio Website
